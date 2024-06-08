@@ -4,7 +4,7 @@ using namespace std;
 #define      ll       long long
 #define     allok()      (ios_base:: sync_with_stdio(false),cin.tie(NULL));
 
-// Queue implementation using linked list;
+// Queue implementation using linked list
 
 struct node
 {
